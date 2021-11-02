@@ -1,0 +1,2 @@
+pythagorasProjeck.CekTriple
+pythagorasProject.CekTriple
